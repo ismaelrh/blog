@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    
+
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
@@ -17,6 +20,7 @@
 
   <body>
     <div class="wrapper-masthead">
+
       <div class="container">
         <header class="masthead clearfix">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
@@ -27,8 +31,9 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
+          <a href="https://ismaro3.github.io">About me</a>
+            <a href="https://ismaro3.github.io/projects.html">Projects</a>
+            <u><a href="{{ site.baseurl }}">Blog</a></u>
           </nav>
         </header>
       </div>
