@@ -287,3 +287,34 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+.breadcrumb {
+  margin-top: 10px;
+}
+
+.name {
+  font-size: 1.1em;
+  text-decoration: none !important;
+  color: black;
+}
+
+
+.name:hover {
+  text-decoration: none !important;
+  color: black !important;
+
+}
+
+.breadcrumb a {
+  color: #5c5954;
+}
+
+
+.breadcrumb a:hover {
+  background-color: #ffefd5;
+  color: #5c5954;
+}
+.active {
+  text-decoration: underline !important;
+  font-weight: bold;
+}

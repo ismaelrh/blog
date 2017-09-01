@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
     
 
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
@@ -22,20 +22,17 @@
     <div class="wrapper-masthead">
 
       <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
+       
+          <ol class="breadcrumb">
+          <a href="http://blog.ismaelrh.com"><b class="name">Ismael Rodríguez's Blog</b></a>
+          <div style="float:right;">
+            <a href="http://blog.ismaelrh.com" style="text-decoration:underline;"><b>Blog</b></a>
+            &nbsp;/&nbsp;
+            <a href="http://ismaelrh.com">Personal web</a>
           </div>
+        
+    </ol>
 
-          <nav>
-          <a href="https://ismaro3.github.io">About me</a>
-            <a href="https://ismaro3.github.io/projects.html">Projects</a>
-            <u><a href="{{ site.baseurl }}">Blog</a></u>
-          </nav>
-        </header>
       </div>
     </div>
 
