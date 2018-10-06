@@ -1,5 +1,7 @@
-# VPN with Raspberry PI: Avoiding control of Big Brother
-
+---
+layout: post
+title:  "VPN with Raspberry PI: Avoiding control of Big Brother!"
+---
 WARNING: This article includes a tutorial that requires network and Linux technical knowledge.
 
 ----
