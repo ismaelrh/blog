@@ -18,15 +18,15 @@ avatar: http://www.gravatar.com/avatar/4de8d654bf7cffcbd7bbc18fd3bc1e34?s=150
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: ismaro.394@gmail.com
+  email: me@ismaelrh.com
   facebook:
   flickr:
-  github: ismaro3
-  instagram:
+  github: ismaelrh
+  instagram: coding_isma
   linkedin: ismaelrh
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: ismaro3
+  rss: rss # just type anything here for a working RSS icon
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -37,7 +37,7 @@ footer-links:
 disqus: ismaro3
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-105668475-2
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
