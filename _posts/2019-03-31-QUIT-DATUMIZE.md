@@ -2,7 +2,7 @@
 layout: post
 title:  "The day I quit my job to create my own company"
 ---
-A not-so-long post telling my story at Datumize, why I quitted and created my own company, and the future.
+A not-so-long post telling my story at Datumize, why I quit and created my own company, and the future.
 
 ----
 
