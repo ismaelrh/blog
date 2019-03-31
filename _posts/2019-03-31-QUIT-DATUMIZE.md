@@ -35,11 +35,11 @@ Now, some words to current and former Datumize employees:
 
 * I wish everybody that is looking for a new job, or that plans to do so, finds a better one where they can develop personally and professionally, and that meanwhile, the time you spend there is nice. All of you have great potential, and finding something better will not be difficult for you. If you need any help, just tell me.
 
-* I am sorry for the people that came to Castelldefels, Barcelona or even Spain to work in Datumize with a promise that everything would be wonderful. I personally told to current employees during the interviews that I really loved working here. It was true in that moment, for sure, but things have changed so much since then that, even though I know it is not my fault, I feel sorry.
+* I am sorry for the people that came to Datumize with a promise that everything would be wonderful. I personally told to current employees during the interviews that I really loved working here. It was true in that moment, for sure, but things have changed so much since then that, even though I know it is not my fault, I feel sorry.
 
 * I know that quitting my job will have consequences on the work of employees, such as more work-load, starting with projects they do not know, etc., and I am sorry for that. My intention is to stay 15 days to make the transition as smooth as possible, and will ask any question after that with no problem.
 
-* For the people that told me to come with me I can just say that I will surely count on you when we have enough money to do so, as right now it is impossible. I would start this new company with so many people, but I just can't for money reasons. But all of you are invited to come to our new office whenever you want :)  We will be located, at the beginning, in Viladecans, so it is not like we died or disappeared.
+* For the people that told me to come with me I can just say that I will surely count on you when we have enough money to do so, as right now it is impossible. We would start this new company with so many people, but we just can't for money reasons. But all of you are invited to come to our new office whenever you want :)  We will be located, at the beginning, in Viladecans, so it is not like we died or disappeared.
 
 For me, Datumize will always be the good people that are part of it, forgetting the people that broke the dream. 
 
