@@ -43,6 +43,6 @@ Now, some words to current and former Datumize employees:
 
 For me, Datumize will always be the good people that are part of it, forgetting the people that broke the dream. 
 
-I will try to keep this blog updated with my progress on the new start-up (it's called [Hedyla](https://hedyla.com/), btw).
+I will try to keep this blog updated with my progress on the new start-up.
 
 To infinity and beyond!
