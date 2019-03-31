@@ -2,11 +2,13 @@
 layout: post
 title:  "The day I quit my job to create my own company"
 ---
-A not-so-long post telling my story at Datumize, why I quit and created my own company, and the future.
+A not-so-long post telling my story at Datumize, why I quit and decided to create my own start-up.
 
 ----
 
 I've been working on [Datumize](https://www.datumize.com/) (Barcelona, Spain) for exactly one year and six months. It was my first real job as a Software Engineer, and the knowledge I acquired there is invaluable. When I entered as a engineer with zero experience, we were 14 employees. Now, we are more than 40.
+
+<img style="float: right;" src="/images/2019_03_31_datumize_start.jpg">
 
 I started as a [Master's](https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics) student that was working and studying at the same time, that never applied the theory in a real work environment. Before blinking, I had to deal with real-world situations, build products for customers, and learn how to really work.
 
@@ -16,11 +18,11 @@ Before, I knew how to code, but not how to work in a company, including communic
 
 I also experienced, directly, the growth of a Start-up. Even though I entered when it already had 14 employees, we were humble, everyone worked very hard, and every success of the company felt like a personal success. When we moved to the new office at Castelldefels, I was more motivated than ever.
 
-During my time at Datumize, I really thought it was a place where I wanted to stay much time, as I really saw a professional career then and I really enjoyed what I was doing. Sadly, some months ago things got ugly, people had been fired with reasons I don't understand, and other things that I cannot mention here without exposing to legal actions happened. The environment in the office, from the on, has not been the same. 
+During my time at Datumize, I really thought it was a place where I wanted to stay much time, as I really saw a professional career then and I really enjoyed what I was doing. Sadly, some months ago things got ugly, people had been fired with reasons I don't understand, and other unethical actions that I cannot mention here without exposing to legal actions happened. The environment in the office, from then on, has not been the same. 
 
 I had a good salary, so I could have stayed there more, working to pay my bills, and learning. But, since that happened, me and some coworkers started questioning such idea. A coworker and me started talking about creating our own company where we could apply innovative technologies in a sector that is growing and has many technological needs. For some months, that was just an idea, but it kept evolving until we finally knew what to do, had some contacts, and some possible customers.
 
-And the moment when you have to jump came. A decision needed to be taken, to stay or to leave, to try or to continue. After thinking it a lot, and talking to possible customers and other contacts to see that our ideas were feasible, I decided to do it. I would create my own start-up and try. Maybe I fail, maybe I succeed, maybe it goes well for a few months or years.
+And the moment when you have to jump came. A decision needed to be taken, to stay or to leave, to try or to continue. After thinking it a lot, and talking to possible customers and other contacts to see that our ideas were feasible, we decided to do it. We would create our own start-up and try. Maybe we fail, maybe we succeed, maybe it goes well for a few months or years.
 But it was the ideal moment. We are young, we have knowledge about the sector, we do not have many obligations. We learnt from errors that Datumize committed, from failures, but also from success and good decisions. 
 
 It will be hard for so many reasons... I will start losing money for some months, I will have to leave the cave of coders and talk more to customers (as a shy and reserved person that will be hard), there will be problems, there will be regret and there will be doubt. I will no longer work with people that are the best I knew in years. But I will keep such people as friends, I will grow as a person and, hopefully, we will create something that we really love and that will work.
