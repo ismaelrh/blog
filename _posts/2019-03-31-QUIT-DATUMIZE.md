@@ -3,6 +3,7 @@ layout: post
 title:  "The day I quit my job to create my own company"
 ---
 A not-so-long post telling my story at Datumize, why I quitted and created my own company, and the future.
+
 ----
 
 I've been working on [Datumize](https://www.datumize.com/) (Barcelona, Spain) for exactly one year and six months. It was my first real job as a Software Engineer, and the knowledge I acquired there is invaluable. When I entered as a engineer with zero experience, we were 14 employees. Now, we are more than 40.
